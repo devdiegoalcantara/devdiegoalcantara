@@ -1,4 +1,4 @@
-## Olá, meu nome é Diego Alcântara, buscando me aperfeiçoar todos os dias, Desenvolvedor Full Stack!
+## Olá, meu nome é Diego Alcântara, buscando sempre a evolução ao invés de resultados, pois com a evolução os resultados chegam com força total, Desenvolvedor Full Stack!
 
 <div align="center">
   <a href="https://github.com/devdiegoalcantara">
